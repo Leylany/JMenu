@@ -1,4 +1,4 @@
-language: Java NetBeans
+language: Java 
 Java:
   - "8.0"
   - "8.2"
