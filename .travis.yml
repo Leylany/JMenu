@@ -2,6 +2,4 @@ language: Java NetBeans
 Java:
   - "8.0"
   - "8.2"
-cache: pip
-install: "pip install -r requirements.txt"
-script: Java TestAutomatedAlarm.java
+
